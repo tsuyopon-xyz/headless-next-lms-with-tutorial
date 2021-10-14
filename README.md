@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 概要
 
-## Getting Started
+このレポジトリは「学習管理アプリ開発講座」用に作成したチュートリアル用レポジトリです。
 
-First, run the development server:
+ステップアップ形式に学べるように、各勉強会で取り扱うコードのヒントになるコードを以下のブランチで用意していく予定です。（随時追加していきます）
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- tutorial/day-001（勉強会 1日目）
+- tutorial/day-002（勉強会 2日目）
+- tutorial/day-003（勉強会 3日目）
+- tutorial/day-004（勉強会 4日目）
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 各勉強会の実装差分を確認したい場合
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+プルリクエストを使って、各ブランチの差分を確認しやすくしていく予定です。（随時更新）
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- 勉強会1日目の差分（create-next-app 〜 tutorial/day-001の実装まで）
+- 勉強会2日目の差分（tutorial/day-001の実装 〜 tutorial/day-002の実装まで）
+- 勉強会3日目の差分（tutorial/day-002の実装 〜 tutorial/day-003の実装まで）
+- 勉強会4日目の差分（tutorial/day-003の実装 〜 tutorial/day-004の実装まで）
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 各勉強会のスライド資料
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+勉強会で使うスライド資料を確認したい方は以下のいずれかにご連絡をいただけたらと思います。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [LINE公式アカウント](https://tsuyopon.xyz/lp/mail-magazine/)
+- [メルマガ](https://tsuyopon.xyz/lp/mail-magazine-training-course-for-beginner/)
+  - 登録時に送られてくるメールに返信する形でご連絡をいただけたらと思います
